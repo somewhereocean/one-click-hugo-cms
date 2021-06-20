@@ -11,3 +11,5 @@ fields:
     schema:
       format: markdown
   label: d
+pages:
+- content/dd.md
